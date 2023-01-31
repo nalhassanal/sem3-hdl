@@ -2,3 +2,5 @@
 ## Lecturer : Dr Norzaily
 
 honestly was a fun course learning but tough in terms of understanding some of the logic
+
+use notepad++ to easily edit the codes
